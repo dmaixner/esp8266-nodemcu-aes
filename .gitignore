@@ -1,0 +1,6 @@
+node_modules
+.travis.yml
+.pioenvs
+.piolibdeps
+.vscode
+lib/readme.txt
